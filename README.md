@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mkpouto Shedrack Okon
-- 👀 Interested in everything tech
+- 👀 Interested in everything tech and health research 
 - 🌱 Currently learning cloud computing
 - 💞️ Looking to collaborate on Open Source Projects
 - 📫 How to reach me: Email: mkpoutoshedrack@gmail.com
