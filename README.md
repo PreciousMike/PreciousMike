@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mkpouto Shedrack Okon
+- 👋 Hi, I’m Mkay
 - 👀 Interested in everything Medical Technology and Research 
 - 🌱 Currently learning cloud computing
 - 💞️ Looking to collaborate on Open Source Projects
